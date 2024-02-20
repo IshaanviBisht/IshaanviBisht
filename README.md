@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IshaanviBisht
+- 👋 Hi, I’m Dashiie
 - 👀 I’m interested in progrraming
 - 🌱 I’m currently learning python and other progrraming languages
 - 📫 How to reach me: You can reach me through youtube or email 
