@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>- 🧠 I’m learning to code (and kinda obsessed with it ngl)<br>- 🎥 I’m making a YouTube channel!<br>- 🪄 I love mixing coding, design, and fun vibes :D<br>- 🤖 Obsessed with AI, web dev, and building cool projects
+<br>- 🧠 I’m learning to code (and kinda obsessed with it ngl!<br>- 🪄 I love mixing coding, design, and fun vibes :D<br>- 🤖 Obsessed with AI, web dev, and building cool projects
 
 ## 🌐 Socials:
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@ishaanvibisht) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@ishomii) 
